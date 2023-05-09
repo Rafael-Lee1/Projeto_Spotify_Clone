@@ -12,9 +12,7 @@
 
 # Descrição
 
- Descrição:
-
-Descrição: O Spotify Clone é um site de streaming de música que oferece uma experiência de usuário semelhante ao popular serviço de streaming de música Spotify. O objetivo do projeto é fornecer um ambiente educacional e de aprendizado para estudantes e desenvolvedores de software que desejam criar serviços semelhantes ao Spotify. O site permite aos usuários pesquisar, reproduzir e salvar músicas de forma simples e intuitiva, com uma interface amigável e fácil de usar.
+O Spotify Clone é um site de streaming de música que oferece uma experiência de usuário semelhante ao popular serviço de streaming de música Spotify. O objetivo do projeto é fornecer um ambiente educacional e de aprendizado para estudantes e desenvolvedores de software que desejam criar serviços semelhantes ao Spotify. O site permite aos usuários pesquisar, reproduzir e salvar músicas de forma simples e intuitiva, com uma interface amigável e fácil de usar.
 
 Com o Spotify Clone, os usuários podem criar playlists personalizadas, seguir seus artistas favoritos e descobrir novas músicas com base em suas preferências. Além disso, o site conta com uma seção especial de recomendações, com sugestões de playlists e artistas que são populares entre os usuários. Confira algumas das principais funcionalidades:
 
